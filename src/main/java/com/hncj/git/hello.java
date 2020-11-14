@@ -9,5 +9,6 @@ public class hello {
     public void test01(){
         System.out.println("hello");
         System.out.println("更新1");
+        System.out.println("更新2");
     }
 }
